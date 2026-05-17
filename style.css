@@ -1,0 +1,198 @@
+
+
+    *{
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body{
+      background: #c9e4ea;
+      color: #111;
+    }
+
+    .navbar{
+      padding: 20px 0;
+    }
+
+    .navbar-brand{
+      font-weight: 700;
+      font-size: 20px;
+    }
+
+    .nav-link{
+      color: #000;
+      font-weight: 600;
+      margin: 0 10px;
+    }
+
+    .hero{
+      padding: 70px 0;
+      background: #c9e4ea;
+    }
+
+    .hero h1{
+      font-size: 34px;
+      font-weight: 700;
+    }
+
+    .hero p{
+      margin-top: 20px;
+      max-width: 450px;
+      line-height: 1.8;
+    }
+
+    .btn-custom{
+      background: #6b8d93;
+      color: white;
+      border-radius: 15px;
+      padding: 12px 35px;
+      font-weight: 600;
+      border: none;
+      margin-top: 20px;
+    }
+
+    .profile-img{
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    .about{
+      background: #7f9ea0;
+      color: white;
+      padding: 70px 0;
+    }
+
+    .about img{
+      width: 220px;
+      border-radius: 10px;
+    }
+
+    .about h3{
+      font-weight: 700;
+    }
+
+    .about p{
+      font-size: 14px;
+      line-height: 1.8;
+      margin-top: 15px;
+    }
+
+    .btn-about{
+      background: #5f7b80;
+      border: none;
+      padding: 10px 25px;
+      color: white;
+      border-radius: 12px;
+      margin-top: 10px;
+      font-weight: 600;
+    }
+
+    .skill{
+      padding: 70px 0;
+      background: #c9e4ea;
+    }
+
+    .section-title{
+      text-align: center;
+      font-weight: 700;
+      margin-bottom: 50px;
+    }
+
+    .skill-item{
+      margin-bottom: 35px;
+    }
+
+    .skill-item .d-flex{
+      margin-bottom: 8px;
+      font-weight: 600;
+    }
+
+    .progress{
+      height: 8px;
+      background: #e4f1f3;
+    }
+
+    .progress-bar{
+      background: #6b8d93;
+    }
+
+    .project{
+      background: #7f9ea0;
+      padding: 70px 0;
+    }
+
+    .project-card{
+      background: #d8eef1;
+      border-radius: 20px;
+      padding: 15px;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .project-card img{
+      width: 100%;
+      border-radius: 10px;
+    }
+
+    .project-btn{
+      margin-top: 15px;
+      background: #6b8d93;
+      border: none;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 12px;
+      font-weight: 700;
+    }
+
+    .contact{
+      padding: 70px 0;
+      background: #c9e4ea;
+    }
+
+    .contact-form{
+      background: #7f9ea0;
+      padding: 30px;
+      border-radius: 20px;
+    }
+
+    .form-control{
+      border-radius: 12px;
+      padding: 12px;
+      margin-bottom: 20px;
+    }
+
+    textarea{
+      height: 150px;
+      resize: none;
+    }
+
+    .send-btn{
+      background: #ececec;
+      border: none;
+      padding: 12px 30px;
+      border-radius: 12px;
+      font-weight: 600;
+    }
+
+    .info-box{
+      background: #6b8d93;
+      color: white;
+      border-radius: 15px;
+      padding: 12px 18px;
+      margin-bottom: 20px;
+    }
+
+    .social-icons i{
+      font-size: 45px;
+      margin-right: 20px;
+      cursor: pointer;
+    }
+
+    footer{
+      background: #6b8d93;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      font-weight: 500;
+    }
